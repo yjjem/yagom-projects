@@ -10,4 +10,4 @@
 | 계산기 ( 1, 2 )  | 2022-09-19 ~ 2022-10-07 | [🔗 바로가기](https://github.com/MangDi-L/ios-calculator-app)                   |
 | 쥬스 메이커       | 2022-08-28 ~ 2022-09-15 | [🔗 바로가기](https://github.com/Dylan-yoon/ios-juice-maker/tree/step3)         |
 | 묵찌빠           | 2022-08-22 ~ 2022-08-26 | [🔗 바로가기](https://github.com/ash-youu/ios-rock-paper-scissors/tree/step3)   |
-| 숫자 야구         | 2022-08-16 ~ 2022-08-19 | [🔗 바로가기](https://github.com/yjjem/seed-ios-number-baseball/tree/step2)    |
+| 숫자 야구         | 2022-08-16 ~ 2022-08-19 | [🔗 바로가기](https://github.com/yjjem/ios-number-baseball)    |
